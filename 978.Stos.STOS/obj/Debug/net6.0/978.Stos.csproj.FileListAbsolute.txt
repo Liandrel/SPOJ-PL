@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\978.Stos\bin\Debug\net6.0\978.Stos.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\978.Stos\bin\Debug\net6.0\978.Stos.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\978.Stos\bin\Debug\net6.0\978.Stos.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\978.Stos\bin\Debug\net6.0\978.Stos.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\978.Stos\bin\Debug\net6.0\978.Stos.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\978.Stos\obj\Debug\net6.0\978.Stos.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\978.Stos\obj\Debug\net6.0\978.Stos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\978.Stos\obj\Debug\net6.0\978.Stos.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\978.Stos\obj\Debug\net6.0\978.Stos.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\978.Stos\obj\Debug\net6.0\978.Stos.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\978.Stos\obj\Debug\net6.0\978.Stos.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\978.Stos\obj\Debug\net6.0\refint\978.Stos.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\978.Stos\obj\Debug\net6.0\978.Stos.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\978.Stos\obj\Debug\net6.0\978.Stos.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\978.Stos\obj\Debug\net6.0\ref\978.Stos.dll

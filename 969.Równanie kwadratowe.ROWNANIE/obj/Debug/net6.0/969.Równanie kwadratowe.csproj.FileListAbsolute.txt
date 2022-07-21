@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\969.Równanie kwadratowe\obj\Debug\net6.0\969.Równanie kwadratowe.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\969.Równanie kwadratowe\obj\Debug\net6.0\969.Równanie kwadratowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\969.Równanie kwadratowe\obj\Debug\net6.0\969.Równanie kwadratowe.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\969.Równanie kwadratowe\obj\Debug\net6.0\969.Równanie kwadratowe.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\969.Równanie kwadratowe\obj\Debug\net6.0\969.Równanie kwadratowe.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\969.Równanie kwadratowe\bin\Debug\net6.0\969.Równanie kwadratowe.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\969.Równanie kwadratowe\bin\Debug\net6.0\969.Równanie kwadratowe.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\969.Równanie kwadratowe\bin\Debug\net6.0\969.Równanie kwadratowe.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\969.Równanie kwadratowe\bin\Debug\net6.0\969.Równanie kwadratowe.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\969.Równanie kwadratowe\bin\Debug\net6.0\969.Równanie kwadratowe.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\969.Równanie kwadratowe\obj\Debug\net6.0\969.Równanie kwadratowe.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\969.Równanie kwadratowe\obj\Debug\net6.0\refint\969.Równanie kwadratowe.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\969.Równanie kwadratowe\obj\Debug\net6.0\969.Równanie kwadratowe.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\969.Równanie kwadratowe\obj\Debug\net6.0\969.Równanie kwadratowe.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\969.Równanie kwadratowe\obj\Debug\net6.0\ref\969.Równanie kwadratowe.dll

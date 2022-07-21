@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\977.Tablica\bin\Debug\net6.0\977.Tablica.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\977.Tablica\bin\Debug\net6.0\977.Tablica.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\977.Tablica\bin\Debug\net6.0\977.Tablica.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\977.Tablica\bin\Debug\net6.0\977.Tablica.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\977.Tablica\bin\Debug\net6.0\977.Tablica.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\977.Tablica\obj\Debug\net6.0\977.Tablica.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\977.Tablica\obj\Debug\net6.0\977.Tablica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\977.Tablica\obj\Debug\net6.0\977.Tablica.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\977.Tablica\obj\Debug\net6.0\977.Tablica.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\977.Tablica\obj\Debug\net6.0\977.Tablica.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\977.Tablica\obj\Debug\net6.0\977.Tablica.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\977.Tablica\obj\Debug\net6.0\refint\977.Tablica.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\977.Tablica\obj\Debug\net6.0\977.Tablica.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\977.Tablica\obj\Debug\net6.0\977.Tablica.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\977.Tablica\obj\Debug\net6.0\ref\977.Tablica.dll
