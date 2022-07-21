@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\438.LiczbyPierwsze\bin\Debug\net6.0\438.LiczbyPierwsze.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\438.LiczbyPierwsze\bin\Debug\net6.0\438.LiczbyPierwsze.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\438.LiczbyPierwsze\bin\Debug\net6.0\438.LiczbyPierwsze.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\438.LiczbyPierwsze\bin\Debug\net6.0\438.LiczbyPierwsze.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\438.LiczbyPierwsze\bin\Debug\net6.0\438.LiczbyPierwsze.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\438.LiczbyPierwsze\obj\Debug\net6.0\438.LiczbyPierwsze.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\438.LiczbyPierwsze\obj\Debug\net6.0\438.LiczbyPierwsze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\438.LiczbyPierwsze\obj\Debug\net6.0\438.LiczbyPierwsze.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\438.LiczbyPierwsze\obj\Debug\net6.0\438.LiczbyPierwsze.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\438.LiczbyPierwsze\obj\Debug\net6.0\438.LiczbyPierwsze.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\438.LiczbyPierwsze\obj\Debug\net6.0\438.LiczbyPierwsze.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\438.LiczbyPierwsze\obj\Debug\net6.0\refint\438.LiczbyPierwsze.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\438.LiczbyPierwsze\obj\Debug\net6.0\438.LiczbyPierwsze.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\438.LiczbyPierwsze\obj\Debug\net6.0\438.LiczbyPierwsze.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\438.LiczbyPierwsze\obj\Debug\net6.0\ref\438.LiczbyPierwsze.dll
