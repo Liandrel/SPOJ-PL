@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\496.Dwie Cyfry Silni\bin\Debug\net6.0\496.Dwie Cyfry Silni.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\496.Dwie Cyfry Silni\bin\Debug\net6.0\496.Dwie Cyfry Silni.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\496.Dwie Cyfry Silni\bin\Debug\net6.0\496.Dwie Cyfry Silni.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\496.Dwie Cyfry Silni\bin\Debug\net6.0\496.Dwie Cyfry Silni.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\496.Dwie Cyfry Silni\bin\Debug\net6.0\496.Dwie Cyfry Silni.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\496.Dwie Cyfry Silni\obj\Debug\net6.0\496.Dwie Cyfry Silni.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\496.Dwie Cyfry Silni\obj\Debug\net6.0\496.Dwie Cyfry Silni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\496.Dwie Cyfry Silni\obj\Debug\net6.0\496.Dwie Cyfry Silni.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\496.Dwie Cyfry Silni\obj\Debug\net6.0\496.Dwie Cyfry Silni.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\496.Dwie Cyfry Silni\obj\Debug\net6.0\496.Dwie Cyfry Silni.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\496.Dwie Cyfry Silni\obj\Debug\net6.0\496.Dwie Cyfry Silni.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\496.Dwie Cyfry Silni\obj\Debug\net6.0\refint\496.Dwie Cyfry Silni.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\496.Dwie Cyfry Silni\obj\Debug\net6.0\496.Dwie Cyfry Silni.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\496.Dwie Cyfry Silni\obj\Debug\net6.0\496.Dwie Cyfry Silni.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\496.Dwie Cyfry Silni\obj\Debug\net6.0\ref\496.Dwie Cyfry Silni.dll

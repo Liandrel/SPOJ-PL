@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\499.Czy umiesz potęgować\bin\Debug\net6.0\499.Czy umiesz potęgować.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\499.Czy umiesz potęgować\bin\Debug\net6.0\499.Czy umiesz potęgować.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\499.Czy umiesz potęgować\bin\Debug\net6.0\499.Czy umiesz potęgować.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\499.Czy umiesz potęgować\bin\Debug\net6.0\499.Czy umiesz potęgować.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\499.Czy umiesz potęgować\bin\Debug\net6.0\499.Czy umiesz potęgować.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\499.Czy umiesz potęgować\obj\Debug\net6.0\499.Czy umiesz potęgować.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\499.Czy umiesz potęgować\obj\Debug\net6.0\499.Czy umiesz potęgować.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\499.Czy umiesz potęgować\obj\Debug\net6.0\499.Czy umiesz potęgować.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\499.Czy umiesz potęgować\obj\Debug\net6.0\499.Czy umiesz potęgować.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\499.Czy umiesz potęgować\obj\Debug\net6.0\499.Czy umiesz potęgować.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\499.Czy umiesz potęgować\obj\Debug\net6.0\499.Czy umiesz potęgować.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\499.Czy umiesz potęgować\obj\Debug\net6.0\refint\499.Czy umiesz potęgować.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\499.Czy umiesz potęgować\obj\Debug\net6.0\499.Czy umiesz potęgować.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\499.Czy umiesz potęgować\obj\Debug\net6.0\499.Czy umiesz potęgować.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\499.Czy umiesz potęgować\obj\Debug\net6.0\ref\499.Czy umiesz potęgować.dll

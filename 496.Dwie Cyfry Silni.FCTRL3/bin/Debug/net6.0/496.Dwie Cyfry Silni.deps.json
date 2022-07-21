@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "496.Dwie Cyfry Silni/1.0.0": {
+        "runtime": {
+          "496.Dwie Cyfry Silni.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "496.Dwie Cyfry Silni/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
