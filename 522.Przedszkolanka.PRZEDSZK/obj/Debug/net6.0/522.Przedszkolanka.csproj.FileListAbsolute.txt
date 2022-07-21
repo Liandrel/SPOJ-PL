@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\522.Przedszkolanka\obj\Debug\net6.0\522.Przedszkolanka.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\522.Przedszkolanka\obj\Debug\net6.0\522.Przedszkolanka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\522.Przedszkolanka\obj\Debug\net6.0\522.Przedszkolanka.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\522.Przedszkolanka\obj\Debug\net6.0\522.Przedszkolanka.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\522.Przedszkolanka\obj\Debug\net6.0\522.Przedszkolanka.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\522.Przedszkolanka\bin\Debug\net6.0\522.Przedszkolanka.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\522.Przedszkolanka\bin\Debug\net6.0\522.Przedszkolanka.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\522.Przedszkolanka\bin\Debug\net6.0\522.Przedszkolanka.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\522.Przedszkolanka\bin\Debug\net6.0\522.Przedszkolanka.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\522.Przedszkolanka\bin\Debug\net6.0\522.Przedszkolanka.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\522.Przedszkolanka\obj\Debug\net6.0\522.Przedszkolanka.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\522.Przedszkolanka\obj\Debug\net6.0\refint\522.Przedszkolanka.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\522.Przedszkolanka\obj\Debug\net6.0\522.Przedszkolanka.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\522.Przedszkolanka\obj\Debug\net6.0\522.Przedszkolanka.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\522.Przedszkolanka\obj\Debug\net6.0\ref\522.Przedszkolanka.dll

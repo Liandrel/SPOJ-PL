@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\549.Proste dodawanie\bin\Debug\net6.0\549.Proste dodawanie.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\549.Proste dodawanie\bin\Debug\net6.0\549.Proste dodawanie.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\549.Proste dodawanie\bin\Debug\net6.0\549.Proste dodawanie.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\549.Proste dodawanie\bin\Debug\net6.0\549.Proste dodawanie.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\549.Proste dodawanie\bin\Debug\net6.0\549.Proste dodawanie.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\549.Proste dodawanie\obj\Debug\net6.0\549.Proste dodawanie.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\549.Proste dodawanie\obj\Debug\net6.0\549.Proste dodawanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\549.Proste dodawanie\obj\Debug\net6.0\549.Proste dodawanie.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\549.Proste dodawanie\obj\Debug\net6.0\549.Proste dodawanie.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\549.Proste dodawanie\obj\Debug\net6.0\549.Proste dodawanie.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\549.Proste dodawanie\obj\Debug\net6.0\549.Proste dodawanie.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\549.Proste dodawanie\obj\Debug\net6.0\refint\549.Proste dodawanie.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\549.Proste dodawanie\obj\Debug\net6.0\549.Proste dodawanie.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\549.Proste dodawanie\obj\Debug\net6.0\549.Proste dodawanie.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\549.Proste dodawanie\obj\Debug\net6.0\ref\549.Proste dodawanie.dll

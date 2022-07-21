@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "568.Zabawne Dodawanie Piotrusia/1.0.0": {
+        "runtime": {
+          "568.Zabawne Dodawanie Piotrusia.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "568.Zabawne Dodawanie Piotrusia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

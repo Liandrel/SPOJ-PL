@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "549.Proste dodawanie", "549.Proste dodawanie.csproj", "{DAAE1451-5731-4078-A45E-A01F804BD02D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAAE1451-5731-4078-A45E-A01F804BD02D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAAE1451-5731-4078-A45E-A01F804BD02D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAAE1451-5731-4078-A45E-A01F804BD02D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAAE1451-5731-4078-A45E-A01F804BD02D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {998B4E58-3068-43DD-8615-B914FD1CEE0E}
+	EndGlobalSection
+EndGlobal

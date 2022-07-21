@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\568.Zabawne Dodawanie Piotrusia\bin\Debug\net6.0\568.Zabawne Dodawanie Piotrusia.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\568.Zabawne Dodawanie Piotrusia\bin\Debug\net6.0\568.Zabawne Dodawanie Piotrusia.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\568.Zabawne Dodawanie Piotrusia\bin\Debug\net6.0\568.Zabawne Dodawanie Piotrusia.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\568.Zabawne Dodawanie Piotrusia\bin\Debug\net6.0\568.Zabawne Dodawanie Piotrusia.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\568.Zabawne Dodawanie Piotrusia\bin\Debug\net6.0\568.Zabawne Dodawanie Piotrusia.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\568.Zabawne Dodawanie Piotrusia\obj\Debug\net6.0\568.Zabawne Dodawanie Piotrusia.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\568.Zabawne Dodawanie Piotrusia\obj\Debug\net6.0\568.Zabawne Dodawanie Piotrusia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\568.Zabawne Dodawanie Piotrusia\obj\Debug\net6.0\568.Zabawne Dodawanie Piotrusia.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\568.Zabawne Dodawanie Piotrusia\obj\Debug\net6.0\568.Zabawne Dodawanie Piotrusia.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\568.Zabawne Dodawanie Piotrusia\obj\Debug\net6.0\568.Zabawne Dodawanie Piotrusia.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\568.Zabawne Dodawanie Piotrusia\obj\Debug\net6.0\568.Zabawne Dodawanie Piotrusia.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\568.Zabawne Dodawanie Piotrusia\obj\Debug\net6.0\refint\568.Zabawne Dodawanie Piotrusia.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\568.Zabawne Dodawanie Piotrusia\obj\Debug\net6.0\568.Zabawne Dodawanie Piotrusia.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\568.Zabawne Dodawanie Piotrusia\obj\Debug\net6.0\568.Zabawne Dodawanie Piotrusia.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\568.Zabawne Dodawanie Piotrusia\obj\Debug\net6.0\ref\568.Zabawne Dodawanie Piotrusia.dll
