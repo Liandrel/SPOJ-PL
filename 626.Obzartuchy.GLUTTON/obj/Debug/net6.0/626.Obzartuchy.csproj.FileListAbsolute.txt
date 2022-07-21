@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\626.Obzartuchy\bin\Debug\net6.0\626.Obzartuchy.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\626.Obzartuchy\bin\Debug\net6.0\626.Obzartuchy.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\626.Obzartuchy\bin\Debug\net6.0\626.Obzartuchy.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\626.Obzartuchy\bin\Debug\net6.0\626.Obzartuchy.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\626.Obzartuchy\bin\Debug\net6.0\626.Obzartuchy.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\626.Obzartuchy\obj\Debug\net6.0\626.Obzartuchy.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\626.Obzartuchy\obj\Debug\net6.0\626.Obzartuchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\626.Obzartuchy\obj\Debug\net6.0\626.Obzartuchy.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\626.Obzartuchy\obj\Debug\net6.0\626.Obzartuchy.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\626.Obzartuchy\obj\Debug\net6.0\626.Obzartuchy.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\626.Obzartuchy\obj\Debug\net6.0\626.Obzartuchy.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\626.Obzartuchy\obj\Debug\net6.0\refint\626.Obzartuchy.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\626.Obzartuchy\obj\Debug\net6.0\626.Obzartuchy.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\626.Obzartuchy\obj\Debug\net6.0\626.Obzartuchy.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\626.Obzartuchy\obj\Debug\net6.0\ref\626.Obzartuchy.dll

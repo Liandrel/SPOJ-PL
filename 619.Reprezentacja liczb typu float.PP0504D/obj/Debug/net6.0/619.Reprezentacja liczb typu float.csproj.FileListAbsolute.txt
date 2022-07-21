@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\619.Reprezentacja liczb typu float\bin\Debug\net6.0\619.Reprezentacja liczb typu float.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\619.Reprezentacja liczb typu float\bin\Debug\net6.0\619.Reprezentacja liczb typu float.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\619.Reprezentacja liczb typu float\bin\Debug\net6.0\619.Reprezentacja liczb typu float.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\619.Reprezentacja liczb typu float\bin\Debug\net6.0\619.Reprezentacja liczb typu float.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\619.Reprezentacja liczb typu float\bin\Debug\net6.0\619.Reprezentacja liczb typu float.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\619.Reprezentacja liczb typu float\obj\Debug\net6.0\619.Reprezentacja liczb typu float.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\619.Reprezentacja liczb typu float\obj\Debug\net6.0\619.Reprezentacja liczb typu float.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\619.Reprezentacja liczb typu float\obj\Debug\net6.0\619.Reprezentacja liczb typu float.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\619.Reprezentacja liczb typu float\obj\Debug\net6.0\619.Reprezentacja liczb typu float.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\619.Reprezentacja liczb typu float\obj\Debug\net6.0\619.Reprezentacja liczb typu float.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\619.Reprezentacja liczb typu float\obj\Debug\net6.0\619.Reprezentacja liczb typu float.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\619.Reprezentacja liczb typu float\obj\Debug\net6.0\refint\619.Reprezentacja liczb typu float.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\619.Reprezentacja liczb typu float\obj\Debug\net6.0\619.Reprezentacja liczb typu float.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\619.Reprezentacja liczb typu float\obj\Debug\net6.0\619.Reprezentacja liczb typu float.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\619.Reprezentacja liczb typu float\obj\Debug\net6.0\ref\619.Reprezentacja liczb typu float.dll
