@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\601.NWD\bin\Debug\net6.0\601.NWD.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\601.NWD\bin\Debug\net6.0\601.NWD.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\601.NWD\bin\Debug\net6.0\601.NWD.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\601.NWD\bin\Debug\net6.0\601.NWD.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\601.NWD\bin\Debug\net6.0\601.NWD.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\601.NWD\obj\Debug\net6.0\601.NWD.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\601.NWD\obj\Debug\net6.0\601.NWD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\601.NWD\obj\Debug\net6.0\601.NWD.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\601.NWD\obj\Debug\net6.0\601.NWD.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\601.NWD\obj\Debug\net6.0\601.NWD.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\601.NWD\obj\Debug\net6.0\601.NWD.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\601.NWD\obj\Debug\net6.0\refint\601.NWD.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\601.NWD\obj\Debug\net6.0\601.NWD.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\601.NWD\obj\Debug\net6.0\601.NWD.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\601.NWD\obj\Debug\net6.0\ref\601.NWD.dll

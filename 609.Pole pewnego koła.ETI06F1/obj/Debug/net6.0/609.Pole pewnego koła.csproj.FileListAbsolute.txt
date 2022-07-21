@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\609.Pole pewnego koła\bin\Debug\net6.0\609.Pole pewnego koła.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\609.Pole pewnego koła\bin\Debug\net6.0\609.Pole pewnego koła.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\609.Pole pewnego koła\bin\Debug\net6.0\609.Pole pewnego koła.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\609.Pole pewnego koła\bin\Debug\net6.0\609.Pole pewnego koła.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\609.Pole pewnego koła\bin\Debug\net6.0\609.Pole pewnego koła.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\609.Pole pewnego koła\obj\Debug\net6.0\609.Pole pewnego koła.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\609.Pole pewnego koła\obj\Debug\net6.0\609.Pole pewnego koła.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\609.Pole pewnego koła\obj\Debug\net6.0\609.Pole pewnego koła.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\609.Pole pewnego koła\obj\Debug\net6.0\609.Pole pewnego koła.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\609.Pole pewnego koła\obj\Debug\net6.0\609.Pole pewnego koła.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\609.Pole pewnego koła\obj\Debug\net6.0\609.Pole pewnego koła.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\609.Pole pewnego koła\obj\Debug\net6.0\refint\609.Pole pewnego koła.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\609.Pole pewnego koła\obj\Debug\net6.0\609.Pole pewnego koła.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\609.Pole pewnego koła\obj\Debug\net6.0\609.Pole pewnego koła.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\609.Pole pewnego koła\obj\Debug\net6.0\ref\609.Pole pewnego koła.dll

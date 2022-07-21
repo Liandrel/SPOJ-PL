@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\606.Tablice\bin\Debug\net6.0\606.Tablice.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\606.Tablice\bin\Debug\net6.0\606.Tablice.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\606.Tablice\bin\Debug\net6.0\606.Tablice.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\606.Tablice\bin\Debug\net6.0\606.Tablice.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\606.Tablice\bin\Debug\net6.0\606.Tablice.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\606.Tablice\obj\Debug\net6.0\606.Tablice.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\606.Tablice\obj\Debug\net6.0\606.Tablice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\606.Tablice\obj\Debug\net6.0\606.Tablice.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\606.Tablice\obj\Debug\net6.0\606.Tablice.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\606.Tablice\obj\Debug\net6.0\606.Tablice.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\606.Tablice\obj\Debug\net6.0\606.Tablice.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\606.Tablice\obj\Debug\net6.0\refint\606.Tablice.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\606.Tablice\obj\Debug\net6.0\606.Tablice.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\606.Tablice\obj\Debug\net6.0\606.Tablice.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\606.Tablice\obj\Debug\net6.0\ref\606.Tablice.dll
