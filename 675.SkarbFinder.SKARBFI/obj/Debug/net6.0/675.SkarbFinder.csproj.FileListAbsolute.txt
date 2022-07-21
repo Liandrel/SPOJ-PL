@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\675.SkarbFinder\obj\Debug\net6.0\675.SkarbFinder.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\675.SkarbFinder\obj\Debug\net6.0\675.SkarbFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\675.SkarbFinder\obj\Debug\net6.0\675.SkarbFinder.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\675.SkarbFinder\obj\Debug\net6.0\675.SkarbFinder.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\675.SkarbFinder\obj\Debug\net6.0\675.SkarbFinder.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\675.SkarbFinder\bin\Debug\net6.0\675.SkarbFinder.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\675.SkarbFinder\bin\Debug\net6.0\675.SkarbFinder.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\675.SkarbFinder\bin\Debug\net6.0\675.SkarbFinder.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\675.SkarbFinder\bin\Debug\net6.0\675.SkarbFinder.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\675.SkarbFinder\bin\Debug\net6.0\675.SkarbFinder.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\675.SkarbFinder\obj\Debug\net6.0\675.SkarbFinder.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\675.SkarbFinder\obj\Debug\net6.0\refint\675.SkarbFinder.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\675.SkarbFinder\obj\Debug\net6.0\675.SkarbFinder.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\675.SkarbFinder\obj\Debug\net6.0\675.SkarbFinder.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\675.SkarbFinder\obj\Debug\net6.0\ref\675.SkarbFinder.dll

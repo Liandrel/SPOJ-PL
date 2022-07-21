@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\708.Problem Collatza\bin\Debug\net6.0\708.Problem Collatza.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\708.Problem Collatza\bin\Debug\net6.0\708.Problem Collatza.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\708.Problem Collatza\bin\Debug\net6.0\708.Problem Collatza.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\708.Problem Collatza\bin\Debug\net6.0\708.Problem Collatza.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\708.Problem Collatza\bin\Debug\net6.0\708.Problem Collatza.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\708.Problem Collatza\obj\Debug\net6.0\708.Problem Collatza.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\708.Problem Collatza\obj\Debug\net6.0\708.Problem Collatza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\708.Problem Collatza\obj\Debug\net6.0\708.Problem Collatza.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\708.Problem Collatza\obj\Debug\net6.0\708.Problem Collatza.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\708.Problem Collatza\obj\Debug\net6.0\708.Problem Collatza.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\708.Problem Collatza\obj\Debug\net6.0\708.Problem Collatza.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\708.Problem Collatza\obj\Debug\net6.0\refint\708.Problem Collatza.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\708.Problem Collatza\obj\Debug\net6.0\708.Problem Collatza.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\708.Problem Collatza\obj\Debug\net6.0\708.Problem Collatza.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\708.Problem Collatza\obj\Debug\net6.0\ref\708.Problem Collatza.dll
