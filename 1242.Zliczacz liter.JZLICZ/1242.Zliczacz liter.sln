@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1242.Zliczacz liter", "1242.Zliczacz liter.csproj", "{9AC5AB91-E8A3-4BD3-819E-A4C8CBA68C87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AC5AB91-E8A3-4BD3-819E-A4C8CBA68C87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AC5AB91-E8A3-4BD3-819E-A4C8CBA68C87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AC5AB91-E8A3-4BD3-819E-A4C8CBA68C87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AC5AB91-E8A3-4BD3-819E-A4C8CBA68C87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D49B4F4-5594-423E-9B32-1C09C6B1EE38}
+	EndGlobalSection
+EndGlobal

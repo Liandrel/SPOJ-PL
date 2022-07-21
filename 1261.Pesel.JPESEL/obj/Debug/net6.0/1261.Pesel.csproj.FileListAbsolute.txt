@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\1261.Pesel\bin\Debug\net6.0\1261.Pesel.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\1261.Pesel\bin\Debug\net6.0\1261.Pesel.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1261.Pesel\bin\Debug\net6.0\1261.Pesel.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1261.Pesel\bin\Debug\net6.0\1261.Pesel.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1261.Pesel\bin\Debug\net6.0\1261.Pesel.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1261.Pesel\obj\Debug\net6.0\1261.Pesel.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1261.Pesel\obj\Debug\net6.0\1261.Pesel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\1261.Pesel\obj\Debug\net6.0\1261.Pesel.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1261.Pesel\obj\Debug\net6.0\1261.Pesel.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\1261.Pesel\obj\Debug\net6.0\1261.Pesel.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1261.Pesel\obj\Debug\net6.0\1261.Pesel.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1261.Pesel\obj\Debug\net6.0\refint\1261.Pesel.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1261.Pesel\obj\Debug\net6.0\1261.Pesel.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1261.Pesel\obj\Debug\net6.0\1261.Pesel.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1261.Pesel\obj\Debug\net6.0\ref\1261.Pesel.dll

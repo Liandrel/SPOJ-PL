@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\1242.Zliczacz liter\bin\Debug\net6.0\1242.Zliczacz liter.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\1242.Zliczacz liter\bin\Debug\net6.0\1242.Zliczacz liter.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1242.Zliczacz liter\bin\Debug\net6.0\1242.Zliczacz liter.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1242.Zliczacz liter\bin\Debug\net6.0\1242.Zliczacz liter.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1242.Zliczacz liter\bin\Debug\net6.0\1242.Zliczacz liter.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1242.Zliczacz liter\obj\Debug\net6.0\1242.Zliczacz liter.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1242.Zliczacz liter\obj\Debug\net6.0\1242.Zliczacz liter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\1242.Zliczacz liter\obj\Debug\net6.0\1242.Zliczacz liter.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1242.Zliczacz liter\obj\Debug\net6.0\1242.Zliczacz liter.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\1242.Zliczacz liter\obj\Debug\net6.0\1242.Zliczacz liter.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1242.Zliczacz liter\obj\Debug\net6.0\1242.Zliczacz liter.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1242.Zliczacz liter\obj\Debug\net6.0\refint\1242.Zliczacz liter.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1242.Zliczacz liter\obj\Debug\net6.0\1242.Zliczacz liter.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1242.Zliczacz liter\obj\Debug\net6.0\1242.Zliczacz liter.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1242.Zliczacz liter\obj\Debug\net6.0\ref\1242.Zliczacz liter.dll
