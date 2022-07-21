@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\1019.Systemy pozycyjne\bin\Debug\net6.0\1019.Systemy pozycyjne.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\1019.Systemy pozycyjne\bin\Debug\net6.0\1019.Systemy pozycyjne.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1019.Systemy pozycyjne\bin\Debug\net6.0\1019.Systemy pozycyjne.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1019.Systemy pozycyjne\bin\Debug\net6.0\1019.Systemy pozycyjne.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1019.Systemy pozycyjne\bin\Debug\net6.0\1019.Systemy pozycyjne.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1019.Systemy pozycyjne\obj\Debug\net6.0\1019.Systemy pozycyjne.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1019.Systemy pozycyjne\obj\Debug\net6.0\1019.Systemy pozycyjne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\1019.Systemy pozycyjne\obj\Debug\net6.0\1019.Systemy pozycyjne.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1019.Systemy pozycyjne\obj\Debug\net6.0\1019.Systemy pozycyjne.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\1019.Systemy pozycyjne\obj\Debug\net6.0\1019.Systemy pozycyjne.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1019.Systemy pozycyjne\obj\Debug\net6.0\1019.Systemy pozycyjne.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1019.Systemy pozycyjne\obj\Debug\net6.0\refint\1019.Systemy pozycyjne.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1019.Systemy pozycyjne\obj\Debug\net6.0\1019.Systemy pozycyjne.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1019.Systemy pozycyjne\obj\Debug\net6.0\1019.Systemy pozycyjne.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1019.Systemy pozycyjne\obj\Debug\net6.0\ref\1019.Systemy pozycyjne.dll

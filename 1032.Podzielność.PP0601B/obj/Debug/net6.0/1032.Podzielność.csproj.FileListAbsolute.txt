@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\1032.Podzielność\bin\Debug\net6.0\1032.Podzielność.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\1032.Podzielność\bin\Debug\net6.0\1032.Podzielność.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1032.Podzielność\bin\Debug\net6.0\1032.Podzielność.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1032.Podzielność\bin\Debug\net6.0\1032.Podzielność.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1032.Podzielność\bin\Debug\net6.0\1032.Podzielność.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1032.Podzielność\obj\Debug\net6.0\1032.Podzielność.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1032.Podzielność\obj\Debug\net6.0\1032.Podzielność.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\1032.Podzielność\obj\Debug\net6.0\1032.Podzielność.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1032.Podzielność\obj\Debug\net6.0\1032.Podzielność.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\1032.Podzielność\obj\Debug\net6.0\1032.Podzielność.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1032.Podzielność\obj\Debug\net6.0\1032.Podzielność.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1032.Podzielność\obj\Debug\net6.0\refint\1032.Podzielność.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1032.Podzielność\obj\Debug\net6.0\1032.Podzielność.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1032.Podzielność\obj\Debug\net6.0\1032.Podzielność.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1032.Podzielność\obj\Debug\net6.0\ref\1032.Podzielność.dll

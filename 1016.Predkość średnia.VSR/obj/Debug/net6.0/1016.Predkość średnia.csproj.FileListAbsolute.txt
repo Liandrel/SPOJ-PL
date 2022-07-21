@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\1016.Predkość średnia\bin\Debug\net6.0\1016.Predkość średnia.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\1016.Predkość średnia\bin\Debug\net6.0\1016.Predkość średnia.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1016.Predkość średnia\bin\Debug\net6.0\1016.Predkość średnia.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1016.Predkość średnia\bin\Debug\net6.0\1016.Predkość średnia.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1016.Predkość średnia\bin\Debug\net6.0\1016.Predkość średnia.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1016.Predkość średnia\obj\Debug\net6.0\1016.Predkość średnia.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1016.Predkość średnia\obj\Debug\net6.0\1016.Predkość średnia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\1016.Predkość średnia\obj\Debug\net6.0\1016.Predkość średnia.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1016.Predkość średnia\obj\Debug\net6.0\1016.Predkość średnia.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\1016.Predkość średnia\obj\Debug\net6.0\1016.Predkość średnia.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1016.Predkość średnia\obj\Debug\net6.0\1016.Predkość średnia.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1016.Predkość średnia\obj\Debug\net6.0\refint\1016.Predkość średnia.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1016.Predkość średnia\obj\Debug\net6.0\1016.Predkość średnia.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1016.Predkość średnia\obj\Debug\net6.0\1016.Predkość średnia.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1016.Predkość średnia\obj\Debug\net6.0\ref\1016.Predkość średnia.dll
