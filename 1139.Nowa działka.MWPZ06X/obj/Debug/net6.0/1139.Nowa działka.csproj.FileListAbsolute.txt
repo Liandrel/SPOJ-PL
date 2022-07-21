@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\1139.Nowa działka\bin\Debug\net6.0\1139.Nowa działka.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\1139.Nowa działka\bin\Debug\net6.0\1139.Nowa działka.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1139.Nowa działka\bin\Debug\net6.0\1139.Nowa działka.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1139.Nowa działka\bin\Debug\net6.0\1139.Nowa działka.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1139.Nowa działka\bin\Debug\net6.0\1139.Nowa działka.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1139.Nowa działka\obj\Debug\net6.0\1139.Nowa działka.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1139.Nowa działka\obj\Debug\net6.0\1139.Nowa działka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\1139.Nowa działka\obj\Debug\net6.0\1139.Nowa działka.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1139.Nowa działka\obj\Debug\net6.0\1139.Nowa działka.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\1139.Nowa działka\obj\Debug\net6.0\1139.Nowa działka.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1139.Nowa działka\obj\Debug\net6.0\1139.Nowa działka.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1139.Nowa działka\obj\Debug\net6.0\refint\1139.Nowa działka.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1139.Nowa działka\obj\Debug\net6.0\1139.Nowa działka.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1139.Nowa działka\obj\Debug\net6.0\1139.Nowa działka.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1139.Nowa działka\obj\Debug\net6.0\ref\1139.Nowa działka.dll

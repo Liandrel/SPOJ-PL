@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\1102.Średnia arytmetyczna\bin\Debug\net6.0\1102.Średnia arytmetyczna.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\1102.Średnia arytmetyczna\bin\Debug\net6.0\1102.Średnia arytmetyczna.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1102.Średnia arytmetyczna\bin\Debug\net6.0\1102.Średnia arytmetyczna.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1102.Średnia arytmetyczna\bin\Debug\net6.0\1102.Średnia arytmetyczna.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1102.Średnia arytmetyczna\bin\Debug\net6.0\1102.Średnia arytmetyczna.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1102.Średnia arytmetyczna\obj\Debug\net6.0\1102.Średnia arytmetyczna.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1102.Średnia arytmetyczna\obj\Debug\net6.0\1102.Średnia arytmetyczna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\1102.Średnia arytmetyczna\obj\Debug\net6.0\1102.Średnia arytmetyczna.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1102.Średnia arytmetyczna\obj\Debug\net6.0\1102.Średnia arytmetyczna.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\1102.Średnia arytmetyczna\obj\Debug\net6.0\1102.Średnia arytmetyczna.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1102.Średnia arytmetyczna\obj\Debug\net6.0\1102.Średnia arytmetyczna.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1102.Średnia arytmetyczna\obj\Debug\net6.0\refint\1102.Średnia arytmetyczna.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1102.Średnia arytmetyczna\obj\Debug\net6.0\1102.Średnia arytmetyczna.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1102.Średnia arytmetyczna\obj\Debug\net6.0\1102.Średnia arytmetyczna.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1102.Średnia arytmetyczna\obj\Debug\net6.0\ref\1102.Średnia arytmetyczna.dll

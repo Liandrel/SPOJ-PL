@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\1056.Tabelki liczb\bin\Debug\net6.0\1056.Tabelki liczb.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\1056.Tabelki liczb\bin\Debug\net6.0\1056.Tabelki liczb.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1056.Tabelki liczb\bin\Debug\net6.0\1056.Tabelki liczb.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1056.Tabelki liczb\bin\Debug\net6.0\1056.Tabelki liczb.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1056.Tabelki liczb\bin\Debug\net6.0\1056.Tabelki liczb.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1056.Tabelki liczb\obj\Debug\net6.0\1056.Tabelki liczb.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1056.Tabelki liczb\obj\Debug\net6.0\1056.Tabelki liczb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\1056.Tabelki liczb\obj\Debug\net6.0\1056.Tabelki liczb.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1056.Tabelki liczb\obj\Debug\net6.0\1056.Tabelki liczb.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\1056.Tabelki liczb\obj\Debug\net6.0\1056.Tabelki liczb.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1056.Tabelki liczb\obj\Debug\net6.0\1056.Tabelki liczb.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1056.Tabelki liczb\obj\Debug\net6.0\refint\1056.Tabelki liczb.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1056.Tabelki liczb\obj\Debug\net6.0\1056.Tabelki liczb.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1056.Tabelki liczb\obj\Debug\net6.0\1056.Tabelki liczb.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1056.Tabelki liczb\obj\Debug\net6.0\ref\1056.Tabelki liczb.dll
