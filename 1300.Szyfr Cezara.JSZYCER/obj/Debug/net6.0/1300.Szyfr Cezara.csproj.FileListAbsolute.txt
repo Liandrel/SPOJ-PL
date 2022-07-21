@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\1300.Szyfr Cezara\bin\Debug\net6.0\1300.Szyfr Cezara.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\1300.Szyfr Cezara\bin\Debug\net6.0\1300.Szyfr Cezara.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1300.Szyfr Cezara\bin\Debug\net6.0\1300.Szyfr Cezara.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1300.Szyfr Cezara\bin\Debug\net6.0\1300.Szyfr Cezara.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1300.Szyfr Cezara\bin\Debug\net6.0\1300.Szyfr Cezara.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1300.Szyfr Cezara\obj\Debug\net6.0\1300.Szyfr Cezara.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1300.Szyfr Cezara\obj\Debug\net6.0\1300.Szyfr Cezara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\1300.Szyfr Cezara\obj\Debug\net6.0\1300.Szyfr Cezara.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1300.Szyfr Cezara\obj\Debug\net6.0\1300.Szyfr Cezara.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\1300.Szyfr Cezara\obj\Debug\net6.0\1300.Szyfr Cezara.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1300.Szyfr Cezara\obj\Debug\net6.0\1300.Szyfr Cezara.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1300.Szyfr Cezara\obj\Debug\net6.0\refint\1300.Szyfr Cezara.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1300.Szyfr Cezara\obj\Debug\net6.0\1300.Szyfr Cezara.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1300.Szyfr Cezara\obj\Debug\net6.0\1300.Szyfr Cezara.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1300.Szyfr Cezara\obj\Debug\net6.0\ref\1300.Szyfr Cezara.dll
