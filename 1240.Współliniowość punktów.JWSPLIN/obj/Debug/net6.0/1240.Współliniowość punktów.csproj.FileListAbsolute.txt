@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\1240.Współliniowość punktów\bin\Debug\net6.0\1240.Współliniowość punktów.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\1240.Współliniowość punktów\bin\Debug\net6.0\1240.Współliniowość punktów.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1240.Współliniowość punktów\bin\Debug\net6.0\1240.Współliniowość punktów.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1240.Współliniowość punktów\bin\Debug\net6.0\1240.Współliniowość punktów.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1240.Współliniowość punktów\bin\Debug\net6.0\1240.Współliniowość punktów.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1240.Współliniowość punktów\obj\Debug\net6.0\1240.Współliniowość punktów.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1240.Współliniowość punktów\obj\Debug\net6.0\1240.Współliniowość punktów.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\1240.Współliniowość punktów\obj\Debug\net6.0\1240.Współliniowość punktów.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1240.Współliniowość punktów\obj\Debug\net6.0\1240.Współliniowość punktów.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\1240.Współliniowość punktów\obj\Debug\net6.0\1240.Współliniowość punktów.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1240.Współliniowość punktów\obj\Debug\net6.0\1240.Współliniowość punktów.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1240.Współliniowość punktów\obj\Debug\net6.0\refint\1240.Współliniowość punktów.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1240.Współliniowość punktów\obj\Debug\net6.0\1240.Współliniowość punktów.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1240.Współliniowość punktów\obj\Debug\net6.0\1240.Współliniowość punktów.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1240.Współliniowość punktów\obj\Debug\net6.0\ref\1240.Współliniowość punktów.dll

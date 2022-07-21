@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\1228.Równanie liniowe\bin\Debug\net6.0\1228.Równanie liniowe.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\1228.Równanie liniowe\bin\Debug\net6.0\1228.Równanie liniowe.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1228.Równanie liniowe\bin\Debug\net6.0\1228.Równanie liniowe.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1228.Równanie liniowe\bin\Debug\net6.0\1228.Równanie liniowe.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1228.Równanie liniowe\bin\Debug\net6.0\1228.Równanie liniowe.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1228.Równanie liniowe\obj\Debug\net6.0\1228.Równanie liniowe.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1228.Równanie liniowe\obj\Debug\net6.0\1228.Równanie liniowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\1228.Równanie liniowe\obj\Debug\net6.0\1228.Równanie liniowe.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1228.Równanie liniowe\obj\Debug\net6.0\1228.Równanie liniowe.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\1228.Równanie liniowe\obj\Debug\net6.0\1228.Równanie liniowe.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1228.Równanie liniowe\obj\Debug\net6.0\1228.Równanie liniowe.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1228.Równanie liniowe\obj\Debug\net6.0\refint\1228.Równanie liniowe.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1228.Równanie liniowe\obj\Debug\net6.0\1228.Równanie liniowe.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1228.Równanie liniowe\obj\Debug\net6.0\1228.Równanie liniowe.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1228.Równanie liniowe\obj\Debug\net6.0\ref\1228.Równanie liniowe.dll

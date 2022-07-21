@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\1211.Niekolejne\bin\Debug\net6.0\1211.Niekolejne.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\1211.Niekolejne\bin\Debug\net6.0\1211.Niekolejne.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1211.Niekolejne\bin\Debug\net6.0\1211.Niekolejne.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1211.Niekolejne\bin\Debug\net6.0\1211.Niekolejne.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1211.Niekolejne\bin\Debug\net6.0\1211.Niekolejne.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1211.Niekolejne\obj\Debug\net6.0\1211.Niekolejne.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1211.Niekolejne\obj\Debug\net6.0\1211.Niekolejne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\1211.Niekolejne\obj\Debug\net6.0\1211.Niekolejne.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1211.Niekolejne\obj\Debug\net6.0\1211.Niekolejne.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\1211.Niekolejne\obj\Debug\net6.0\1211.Niekolejne.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1211.Niekolejne\obj\Debug\net6.0\1211.Niekolejne.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1211.Niekolejne\obj\Debug\net6.0\refint\1211.Niekolejne.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1211.Niekolejne\obj\Debug\net6.0\1211.Niekolejne.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1211.Niekolejne\obj\Debug\net6.0\1211.Niekolejne.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1211.Niekolejne\obj\Debug\net6.0\ref\1211.Niekolejne.dll
