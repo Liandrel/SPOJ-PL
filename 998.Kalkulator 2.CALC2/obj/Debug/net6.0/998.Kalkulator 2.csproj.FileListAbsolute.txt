@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\998.Kalkulator 2\obj\Debug\net6.0\998.Kalkulator 2.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\998.Kalkulator 2\obj\Debug\net6.0\998.Kalkulator 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\998.Kalkulator 2\obj\Debug\net6.0\998.Kalkulator 2.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\998.Kalkulator 2\obj\Debug\net6.0\998.Kalkulator 2.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\998.Kalkulator 2\obj\Debug\net6.0\998.Kalkulator 2.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\998.Kalkulator 2\bin\Debug\net6.0\998.Kalkulator 2.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\998.Kalkulator 2\bin\Debug\net6.0\998.Kalkulator 2.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\998.Kalkulator 2\bin\Debug\net6.0\998.Kalkulator 2.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\998.Kalkulator 2\bin\Debug\net6.0\998.Kalkulator 2.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\998.Kalkulator 2\bin\Debug\net6.0\998.Kalkulator 2.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\998.Kalkulator 2\obj\Debug\net6.0\998.Kalkulator 2.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\998.Kalkulator 2\obj\Debug\net6.0\refint\998.Kalkulator 2.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\998.Kalkulator 2\obj\Debug\net6.0\998.Kalkulator 2.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\998.Kalkulator 2\obj\Debug\net6.0\998.Kalkulator 2.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\998.Kalkulator 2\obj\Debug\net6.0\ref\998.Kalkulator 2.dll

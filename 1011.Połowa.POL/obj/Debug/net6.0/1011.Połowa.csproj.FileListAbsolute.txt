@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\1011.Połowa\bin\Debug\net6.0\1011.Połowa.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\1011.Połowa\bin\Debug\net6.0\1011.Połowa.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1011.Połowa\bin\Debug\net6.0\1011.Połowa.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1011.Połowa\bin\Debug\net6.0\1011.Połowa.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1011.Połowa\bin\Debug\net6.0\1011.Połowa.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1011.Połowa\obj\Debug\net6.0\1011.Połowa.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1011.Połowa\obj\Debug\net6.0\1011.Połowa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\1011.Połowa\obj\Debug\net6.0\1011.Połowa.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1011.Połowa\obj\Debug\net6.0\1011.Połowa.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\1011.Połowa\obj\Debug\net6.0\1011.Połowa.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1011.Połowa\obj\Debug\net6.0\1011.Połowa.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1011.Połowa\obj\Debug\net6.0\refint\1011.Połowa.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1011.Połowa\obj\Debug\net6.0\1011.Połowa.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1011.Połowa\obj\Debug\net6.0\1011.Połowa.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1011.Połowa\obj\Debug\net6.0\ref\1011.Połowa.dll
