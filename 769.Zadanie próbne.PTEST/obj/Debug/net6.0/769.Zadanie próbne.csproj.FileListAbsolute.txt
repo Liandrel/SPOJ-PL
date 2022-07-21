@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\769.Zadanie próbne\bin\Debug\net6.0\769.Zadanie próbne.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\769.Zadanie próbne\bin\Debug\net6.0\769.Zadanie próbne.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\769.Zadanie próbne\bin\Debug\net6.0\769.Zadanie próbne.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\769.Zadanie próbne\bin\Debug\net6.0\769.Zadanie próbne.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\769.Zadanie próbne\bin\Debug\net6.0\769.Zadanie próbne.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\769.Zadanie próbne\obj\Debug\net6.0\769.Zadanie próbne.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\769.Zadanie próbne\obj\Debug\net6.0\769.Zadanie próbne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\769.Zadanie próbne\obj\Debug\net6.0\769.Zadanie próbne.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\769.Zadanie próbne\obj\Debug\net6.0\769.Zadanie próbne.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\769.Zadanie próbne\obj\Debug\net6.0\769.Zadanie próbne.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\769.Zadanie próbne\obj\Debug\net6.0\769.Zadanie próbne.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\769.Zadanie próbne\obj\Debug\net6.0\refint\769.Zadanie próbne.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\769.Zadanie próbne\obj\Debug\net6.0\769.Zadanie próbne.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\769.Zadanie próbne\obj\Debug\net6.0\769.Zadanie próbne.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\769.Zadanie próbne\obj\Debug\net6.0\ref\769.Zadanie próbne.dll

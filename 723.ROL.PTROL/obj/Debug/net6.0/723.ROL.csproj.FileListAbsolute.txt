@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\723.ROL\obj\Debug\net6.0\723.ROL.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\723.ROL\obj\Debug\net6.0\723.ROL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\723.ROL\obj\Debug\net6.0\723.ROL.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\723.ROL\obj\Debug\net6.0\723.ROL.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\723.ROL\obj\Debug\net6.0\723.ROL.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\723.ROL\bin\Debug\net6.0\723.ROL.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\723.ROL\bin\Debug\net6.0\723.ROL.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\723.ROL\bin\Debug\net6.0\723.ROL.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\723.ROL\bin\Debug\net6.0\723.ROL.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\723.ROL\bin\Debug\net6.0\723.ROL.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\723.ROL\obj\Debug\net6.0\723.ROL.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\723.ROL\obj\Debug\net6.0\refint\723.ROL.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\723.ROL\obj\Debug\net6.0\723.ROL.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\723.ROL\obj\Debug\net6.0\723.ROL.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\723.ROL\obj\Debug\net6.0\ref\723.ROL.dll

@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\804.Gra Euklidesa\bin\Debug\net6.0\804.Gra Euklidesa.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\804.Gra Euklidesa\bin\Debug\net6.0\804.Gra Euklidesa.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\804.Gra Euklidesa\bin\Debug\net6.0\804.Gra Euklidesa.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\804.Gra Euklidesa\bin\Debug\net6.0\804.Gra Euklidesa.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\804.Gra Euklidesa\bin\Debug\net6.0\804.Gra Euklidesa.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\804.Gra Euklidesa\obj\Debug\net6.0\804.Gra Euklidesa.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\804.Gra Euklidesa\obj\Debug\net6.0\804.Gra Euklidesa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\804.Gra Euklidesa\obj\Debug\net6.0\804.Gra Euklidesa.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\804.Gra Euklidesa\obj\Debug\net6.0\804.Gra Euklidesa.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\804.Gra Euklidesa\obj\Debug\net6.0\804.Gra Euklidesa.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\804.Gra Euklidesa\obj\Debug\net6.0\804.Gra Euklidesa.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\804.Gra Euklidesa\obj\Debug\net6.0\refint\804.Gra Euklidesa.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\804.Gra Euklidesa\obj\Debug\net6.0\804.Gra Euklidesa.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\804.Gra Euklidesa\obj\Debug\net6.0\804.Gra Euklidesa.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\804.Gra Euklidesa\obj\Debug\net6.0\ref\804.Gra Euklidesa.dll
