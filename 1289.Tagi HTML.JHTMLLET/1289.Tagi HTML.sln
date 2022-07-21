@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1289.Tagi HTML", "1289.Tagi HTML.csproj", "{60D0A079-7875-4493-BA6B-C55C9CEC98D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60D0A079-7875-4493-BA6B-C55C9CEC98D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60D0A079-7875-4493-BA6B-C55C9CEC98D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60D0A079-7875-4493-BA6B-C55C9CEC98D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60D0A079-7875-4493-BA6B-C55C9CEC98D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {111BF76B-4CA8-4D91-891C-ABF79B7F08AA}
+	EndGlobalSection
+EndGlobal

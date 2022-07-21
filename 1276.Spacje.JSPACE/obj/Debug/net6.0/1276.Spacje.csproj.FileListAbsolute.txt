@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\1276.Spacje\bin\Debug\net6.0\1276.Spacje.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\1276.Spacje\bin\Debug\net6.0\1276.Spacje.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1276.Spacje\bin\Debug\net6.0\1276.Spacje.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1276.Spacje\bin\Debug\net6.0\1276.Spacje.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1276.Spacje\bin\Debug\net6.0\1276.Spacje.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1276.Spacje\obj\Debug\net6.0\1276.Spacje.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1276.Spacje\obj\Debug\net6.0\1276.Spacje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\1276.Spacje\obj\Debug\net6.0\1276.Spacje.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1276.Spacje\obj\Debug\net6.0\1276.Spacje.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\1276.Spacje\obj\Debug\net6.0\1276.Spacje.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1276.Spacje\obj\Debug\net6.0\1276.Spacje.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1276.Spacje\obj\Debug\net6.0\refint\1276.Spacje.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1276.Spacje\obj\Debug\net6.0\1276.Spacje.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1276.Spacje\obj\Debug\net6.0\1276.Spacje.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1276.Spacje\obj\Debug\net6.0\ref\1276.Spacje.dll

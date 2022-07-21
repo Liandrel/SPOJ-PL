@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\1289.Tagi HTML\bin\Debug\net6.0\1289.Tagi HTML.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\1289.Tagi HTML\bin\Debug\net6.0\1289.Tagi HTML.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1289.Tagi HTML\bin\Debug\net6.0\1289.Tagi HTML.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1289.Tagi HTML\bin\Debug\net6.0\1289.Tagi HTML.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1289.Tagi HTML\bin\Debug\net6.0\1289.Tagi HTML.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1289.Tagi HTML\obj\Debug\net6.0\1289.Tagi HTML.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1289.Tagi HTML\obj\Debug\net6.0\1289.Tagi HTML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\1289.Tagi HTML\obj\Debug\net6.0\1289.Tagi HTML.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1289.Tagi HTML\obj\Debug\net6.0\1289.Tagi HTML.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\1289.Tagi HTML\obj\Debug\net6.0\1289.Tagi HTML.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1289.Tagi HTML\obj\Debug\net6.0\1289.Tagi HTML.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1289.Tagi HTML\obj\Debug\net6.0\refint\1289.Tagi HTML.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1289.Tagi HTML\obj\Debug\net6.0\1289.Tagi HTML.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1289.Tagi HTML\obj\Debug\net6.0\1289.Tagi HTML.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1289.Tagi HTML\obj\Debug\net6.0\ref\1289.Tagi HTML.dll
