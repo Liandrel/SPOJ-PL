@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\806.Wiatraczki\bin\Debug\net6.0\806.Wiatraczki.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\806.Wiatraczki\bin\Debug\net6.0\806.Wiatraczki.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\806.Wiatraczki\bin\Debug\net6.0\806.Wiatraczki.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\806.Wiatraczki\bin\Debug\net6.0\806.Wiatraczki.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\806.Wiatraczki\bin\Debug\net6.0\806.Wiatraczki.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\806.Wiatraczki\obj\Debug\net6.0\806.Wiatraczki.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\806.Wiatraczki\obj\Debug\net6.0\806.Wiatraczki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\806.Wiatraczki\obj\Debug\net6.0\806.Wiatraczki.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\806.Wiatraczki\obj\Debug\net6.0\806.Wiatraczki.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\806.Wiatraczki\obj\Debug\net6.0\806.Wiatraczki.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\806.Wiatraczki\obj\Debug\net6.0\806.Wiatraczki.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\806.Wiatraczki\obj\Debug\net6.0\refint\806.Wiatraczki.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\806.Wiatraczki\obj\Debug\net6.0\806.Wiatraczki.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\806.Wiatraczki\obj\Debug\net6.0\806.Wiatraczki.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\806.Wiatraczki\obj\Debug\net6.0\ref\806.Wiatraczki.dll

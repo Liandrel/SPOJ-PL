@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\968.Suma\bin\Debug\net6.0\968.Suma.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\968.Suma\bin\Debug\net6.0\968.Suma.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\968.Suma\bin\Debug\net6.0\968.Suma.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\968.Suma\bin\Debug\net6.0\968.Suma.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\968.Suma\bin\Debug\net6.0\968.Suma.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\968.Suma\obj\Debug\net6.0\968.Suma.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\968.Suma\obj\Debug\net6.0\968.Suma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\968.Suma\obj\Debug\net6.0\968.Suma.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\968.Suma\obj\Debug\net6.0\968.Suma.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\968.Suma\obj\Debug\net6.0\968.Suma.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\968.Suma\obj\Debug\net6.0\968.Suma.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\968.Suma\obj\Debug\net6.0\refint\968.Suma.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\968.Suma\obj\Debug\net6.0\968.Suma.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\968.Suma\obj\Debug\net6.0\968.Suma.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\968.Suma\obj\Debug\net6.0\ref\968.Suma.dll

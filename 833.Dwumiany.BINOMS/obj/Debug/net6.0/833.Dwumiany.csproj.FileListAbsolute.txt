@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\833.Dwumiany\bin\Debug\net6.0\833.Dwumiany.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\833.Dwumiany\bin\Debug\net6.0\833.Dwumiany.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\833.Dwumiany\bin\Debug\net6.0\833.Dwumiany.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\833.Dwumiany\bin\Debug\net6.0\833.Dwumiany.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\833.Dwumiany\bin\Debug\net6.0\833.Dwumiany.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\833.Dwumiany\obj\Debug\net6.0\833.Dwumiany.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\833.Dwumiany\obj\Debug\net6.0\833.Dwumiany.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\833.Dwumiany\obj\Debug\net6.0\833.Dwumiany.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\833.Dwumiany\obj\Debug\net6.0\833.Dwumiany.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\833.Dwumiany\obj\Debug\net6.0\833.Dwumiany.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\833.Dwumiany\obj\Debug\net6.0\833.Dwumiany.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\833.Dwumiany\obj\Debug\net6.0\refint\833.Dwumiany.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\833.Dwumiany\obj\Debug\net6.0\833.Dwumiany.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\833.Dwumiany\obj\Debug\net6.0\833.Dwumiany.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\833.Dwumiany\obj\Debug\net6.0\ref\833.Dwumiany.dll
