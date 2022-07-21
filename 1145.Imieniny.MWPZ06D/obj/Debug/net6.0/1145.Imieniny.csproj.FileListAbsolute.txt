@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\1145.Imieniny\bin\Debug\net6.0\1145.Imieniny.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\1145.Imieniny\bin\Debug\net6.0\1145.Imieniny.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1145.Imieniny\bin\Debug\net6.0\1145.Imieniny.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1145.Imieniny\bin\Debug\net6.0\1145.Imieniny.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1145.Imieniny\bin\Debug\net6.0\1145.Imieniny.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1145.Imieniny\obj\Debug\net6.0\1145.Imieniny.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1145.Imieniny\obj\Debug\net6.0\1145.Imieniny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\1145.Imieniny\obj\Debug\net6.0\1145.Imieniny.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1145.Imieniny\obj\Debug\net6.0\1145.Imieniny.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\1145.Imieniny\obj\Debug\net6.0\1145.Imieniny.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1145.Imieniny\obj\Debug\net6.0\1145.Imieniny.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1145.Imieniny\obj\Debug\net6.0\refint\1145.Imieniny.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1145.Imieniny\obj\Debug\net6.0\1145.Imieniny.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1145.Imieniny\obj\Debug\net6.0\1145.Imieniny.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1145.Imieniny\obj\Debug\net6.0\ref\1145.Imieniny.dll

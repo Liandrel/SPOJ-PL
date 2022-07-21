@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\1142.Ciążowy Specjalista\bin\Debug\net6.0\1142.Ciążowy Specjalista.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\1142.Ciążowy Specjalista\bin\Debug\net6.0\1142.Ciążowy Specjalista.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1142.Ciążowy Specjalista\bin\Debug\net6.0\1142.Ciążowy Specjalista.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1142.Ciążowy Specjalista\bin\Debug\net6.0\1142.Ciążowy Specjalista.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1142.Ciążowy Specjalista\bin\Debug\net6.0\1142.Ciążowy Specjalista.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1142.Ciążowy Specjalista\obj\Debug\net6.0\1142.Ciążowy Specjalista.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1142.Ciążowy Specjalista\obj\Debug\net6.0\1142.Ciążowy Specjalista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\1142.Ciążowy Specjalista\obj\Debug\net6.0\1142.Ciążowy Specjalista.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1142.Ciążowy Specjalista\obj\Debug\net6.0\1142.Ciążowy Specjalista.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\1142.Ciążowy Specjalista\obj\Debug\net6.0\1142.Ciążowy Specjalista.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1142.Ciążowy Specjalista\obj\Debug\net6.0\1142.Ciążowy Specjalista.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1142.Ciążowy Specjalista\obj\Debug\net6.0\refint\1142.Ciążowy Specjalista.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1142.Ciążowy Specjalista\obj\Debug\net6.0\1142.Ciążowy Specjalista.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1142.Ciążowy Specjalista\obj\Debug\net6.0\1142.Ciążowy Specjalista.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1142.Ciążowy Specjalista\obj\Debug\net6.0\ref\1142.Ciążowy Specjalista.dll

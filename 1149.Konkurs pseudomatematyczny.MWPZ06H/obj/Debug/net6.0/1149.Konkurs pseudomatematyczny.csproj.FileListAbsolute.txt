@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\1149.Konkurs pseudomatematyczny\bin\Debug\net6.0\1149.Konkurs pseudomatematyczny.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\1149.Konkurs pseudomatematyczny\bin\Debug\net6.0\1149.Konkurs pseudomatematyczny.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1149.Konkurs pseudomatematyczny\bin\Debug\net6.0\1149.Konkurs pseudomatematyczny.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1149.Konkurs pseudomatematyczny\bin\Debug\net6.0\1149.Konkurs pseudomatematyczny.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1149.Konkurs pseudomatematyczny\bin\Debug\net6.0\1149.Konkurs pseudomatematyczny.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1149.Konkurs pseudomatematyczny\obj\Debug\net6.0\1149.Konkurs pseudomatematyczny.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1149.Konkurs pseudomatematyczny\obj\Debug\net6.0\1149.Konkurs pseudomatematyczny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\1149.Konkurs pseudomatematyczny\obj\Debug\net6.0\1149.Konkurs pseudomatematyczny.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1149.Konkurs pseudomatematyczny\obj\Debug\net6.0\1149.Konkurs pseudomatematyczny.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\1149.Konkurs pseudomatematyczny\obj\Debug\net6.0\1149.Konkurs pseudomatematyczny.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1149.Konkurs pseudomatematyczny\obj\Debug\net6.0\1149.Konkurs pseudomatematyczny.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1149.Konkurs pseudomatematyczny\obj\Debug\net6.0\refint\1149.Konkurs pseudomatematyczny.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1149.Konkurs pseudomatematyczny\obj\Debug\net6.0\1149.Konkurs pseudomatematyczny.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1149.Konkurs pseudomatematyczny\obj\Debug\net6.0\1149.Konkurs pseudomatematyczny.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1149.Konkurs pseudomatematyczny\obj\Debug\net6.0\ref\1149.Konkurs pseudomatematyczny.dll
