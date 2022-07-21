@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\1042.Transponowanie macierzy\bin\Debug\net6.0\1042.Transponowanie macierzy.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\1042.Transponowanie macierzy\bin\Debug\net6.0\1042.Transponowanie macierzy.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1042.Transponowanie macierzy\bin\Debug\net6.0\1042.Transponowanie macierzy.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1042.Transponowanie macierzy\bin\Debug\net6.0\1042.Transponowanie macierzy.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1042.Transponowanie macierzy\bin\Debug\net6.0\1042.Transponowanie macierzy.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1042.Transponowanie macierzy\obj\Debug\net6.0\1042.Transponowanie macierzy.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1042.Transponowanie macierzy\obj\Debug\net6.0\1042.Transponowanie macierzy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\1042.Transponowanie macierzy\obj\Debug\net6.0\1042.Transponowanie macierzy.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1042.Transponowanie macierzy\obj\Debug\net6.0\1042.Transponowanie macierzy.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\1042.Transponowanie macierzy\obj\Debug\net6.0\1042.Transponowanie macierzy.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1042.Transponowanie macierzy\obj\Debug\net6.0\1042.Transponowanie macierzy.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1042.Transponowanie macierzy\obj\Debug\net6.0\refint\1042.Transponowanie macierzy.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1042.Transponowanie macierzy\obj\Debug\net6.0\1042.Transponowanie macierzy.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1042.Transponowanie macierzy\obj\Debug\net6.0\1042.Transponowanie macierzy.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1042.Transponowanie macierzy\obj\Debug\net6.0\ref\1042.Transponowanie macierzy.dll

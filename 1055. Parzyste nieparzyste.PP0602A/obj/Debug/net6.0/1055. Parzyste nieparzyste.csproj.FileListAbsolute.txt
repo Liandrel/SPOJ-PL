@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\1055. Parzyste nieparzyste\bin\Debug\net6.0\1055. Parzyste nieparzyste.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\1055. Parzyste nieparzyste\bin\Debug\net6.0\1055. Parzyste nieparzyste.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1055. Parzyste nieparzyste\bin\Debug\net6.0\1055. Parzyste nieparzyste.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1055. Parzyste nieparzyste\bin\Debug\net6.0\1055. Parzyste nieparzyste.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1055. Parzyste nieparzyste\bin\Debug\net6.0\1055. Parzyste nieparzyste.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1055. Parzyste nieparzyste\obj\Debug\net6.0\1055. Parzyste nieparzyste.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1055. Parzyste nieparzyste\obj\Debug\net6.0\1055. Parzyste nieparzyste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\1055. Parzyste nieparzyste\obj\Debug\net6.0\1055. Parzyste nieparzyste.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1055. Parzyste nieparzyste\obj\Debug\net6.0\1055. Parzyste nieparzyste.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\1055. Parzyste nieparzyste\obj\Debug\net6.0\1055. Parzyste nieparzyste.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1055. Parzyste nieparzyste\obj\Debug\net6.0\1055. Parzyste nieparzyste.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1055. Parzyste nieparzyste\obj\Debug\net6.0\refint\1055. Parzyste nieparzyste.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1055. Parzyste nieparzyste\obj\Debug\net6.0\1055. Parzyste nieparzyste.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1055. Parzyste nieparzyste\obj\Debug\net6.0\1055. Parzyste nieparzyste.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1055. Parzyste nieparzyste\obj\Debug\net6.0\ref\1055. Parzyste nieparzyste.dll

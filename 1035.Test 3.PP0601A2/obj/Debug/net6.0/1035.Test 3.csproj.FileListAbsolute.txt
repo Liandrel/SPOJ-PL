@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\1035.Test 3\bin\Debug\net6.0\1035.Test 3.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\1035.Test 3\bin\Debug\net6.0\1035.Test 3.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1035.Test 3\bin\Debug\net6.0\1035.Test 3.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1035.Test 3\bin\Debug\net6.0\1035.Test 3.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1035.Test 3\bin\Debug\net6.0\1035.Test 3.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1035.Test 3\obj\Debug\net6.0\1035.Test 3.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1035.Test 3\obj\Debug\net6.0\1035.Test 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\1035.Test 3\obj\Debug\net6.0\1035.Test 3.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1035.Test 3\obj\Debug\net6.0\1035.Test 3.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\1035.Test 3\obj\Debug\net6.0\1035.Test 3.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1035.Test 3\obj\Debug\net6.0\1035.Test 3.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1035.Test 3\obj\Debug\net6.0\refint\1035.Test 3.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1035.Test 3\obj\Debug\net6.0\1035.Test 3.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1035.Test 3\obj\Debug\net6.0\1035.Test 3.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1035.Test 3\obj\Debug\net6.0\ref\1035.Test 3.dll
