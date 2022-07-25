@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\1844.Zliczanie wystąpień.KC004\bin\Debug\net6.0\1844.Zliczanie wystąpień.KC004.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\1844.Zliczanie wystąpień.KC004\bin\Debug\net6.0\1844.Zliczanie wystąpień.KC004.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1844.Zliczanie wystąpień.KC004\bin\Debug\net6.0\1844.Zliczanie wystąpień.KC004.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1844.Zliczanie wystąpień.KC004\bin\Debug\net6.0\1844.Zliczanie wystąpień.KC004.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1844.Zliczanie wystąpień.KC004\bin\Debug\net6.0\1844.Zliczanie wystąpień.KC004.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1844.Zliczanie wystąpień.KC004\obj\Debug\net6.0\1844.Zliczanie wystąpień.KC004.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1844.Zliczanie wystąpień.KC004\obj\Debug\net6.0\1844.Zliczanie wystąpień.KC004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\1844.Zliczanie wystąpień.KC004\obj\Debug\net6.0\1844.Zliczanie wystąpień.KC004.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1844.Zliczanie wystąpień.KC004\obj\Debug\net6.0\1844.Zliczanie wystąpień.KC004.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\1844.Zliczanie wystąpień.KC004\obj\Debug\net6.0\1844.Zliczanie wystąpień.KC004.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1844.Zliczanie wystąpień.KC004\obj\Debug\net6.0\1844.Zliczanie wystąpień.KC004.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1844.Zliczanie wystąpień.KC004\obj\Debug\net6.0\refint\1844.Zliczanie wystąpień.KC004.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1844.Zliczanie wystąpień.KC004\obj\Debug\net6.0\1844.Zliczanie wystąpień.KC004.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1844.Zliczanie wystąpień.KC004\obj\Debug\net6.0\1844.Zliczanie wystąpień.KC004.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1844.Zliczanie wystąpień.KC004\obj\Debug\net6.0\ref\1844.Zliczanie wystąpień.KC004.dll
