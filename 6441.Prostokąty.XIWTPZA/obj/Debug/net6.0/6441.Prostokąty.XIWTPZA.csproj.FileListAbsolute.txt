@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\6441.Prostokąty.XIWTPZA\bin\Debug\net6.0\6441.Prostokąty.XIWTPZA.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\6441.Prostokąty.XIWTPZA\bin\Debug\net6.0\6441.Prostokąty.XIWTPZA.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\6441.Prostokąty.XIWTPZA\bin\Debug\net6.0\6441.Prostokąty.XIWTPZA.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\6441.Prostokąty.XIWTPZA\bin\Debug\net6.0\6441.Prostokąty.XIWTPZA.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\6441.Prostokąty.XIWTPZA\bin\Debug\net6.0\6441.Prostokąty.XIWTPZA.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\6441.Prostokąty.XIWTPZA\obj\Debug\net6.0\6441.Prostokąty.XIWTPZA.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\6441.Prostokąty.XIWTPZA\obj\Debug\net6.0\6441.Prostokąty.XIWTPZA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\6441.Prostokąty.XIWTPZA\obj\Debug\net6.0\6441.Prostokąty.XIWTPZA.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\6441.Prostokąty.XIWTPZA\obj\Debug\net6.0\6441.Prostokąty.XIWTPZA.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\6441.Prostokąty.XIWTPZA\obj\Debug\net6.0\6441.Prostokąty.XIWTPZA.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\6441.Prostokąty.XIWTPZA\obj\Debug\net6.0\6441.Prostokąty.XIWTPZA.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\6441.Prostokąty.XIWTPZA\obj\Debug\net6.0\refint\6441.Prostokąty.XIWTPZA.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\6441.Prostokąty.XIWTPZA\obj\Debug\net6.0\6441.Prostokąty.XIWTPZA.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\6441.Prostokąty.XIWTPZA\obj\Debug\net6.0\6441.Prostokąty.XIWTPZA.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\6441.Prostokąty.XIWTPZA\obj\Debug\net6.0\ref\6441.Prostokąty.XIWTPZA.dll
