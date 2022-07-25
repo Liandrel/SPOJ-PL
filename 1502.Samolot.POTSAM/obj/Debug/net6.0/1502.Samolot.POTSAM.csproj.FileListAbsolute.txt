@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\1502.Samolot.POTSAM\bin\Debug\net6.0\1502.Samolot.POTSAM.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\1502.Samolot.POTSAM\bin\Debug\net6.0\1502.Samolot.POTSAM.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1502.Samolot.POTSAM\bin\Debug\net6.0\1502.Samolot.POTSAM.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1502.Samolot.POTSAM\bin\Debug\net6.0\1502.Samolot.POTSAM.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1502.Samolot.POTSAM\bin\Debug\net6.0\1502.Samolot.POTSAM.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1502.Samolot.POTSAM\obj\Debug\net6.0\1502.Samolot.POTSAM.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1502.Samolot.POTSAM\obj\Debug\net6.0\1502.Samolot.POTSAM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\1502.Samolot.POTSAM\obj\Debug\net6.0\1502.Samolot.POTSAM.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1502.Samolot.POTSAM\obj\Debug\net6.0\1502.Samolot.POTSAM.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\1502.Samolot.POTSAM\obj\Debug\net6.0\1502.Samolot.POTSAM.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1502.Samolot.POTSAM\obj\Debug\net6.0\1502.Samolot.POTSAM.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1502.Samolot.POTSAM\obj\Debug\net6.0\refint\1502.Samolot.POTSAM.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1502.Samolot.POTSAM\obj\Debug\net6.0\1502.Samolot.POTSAM.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1502.Samolot.POTSAM\obj\Debug\net6.0\1502.Samolot.POTSAM.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1502.Samolot.POTSAM\obj\Debug\net6.0\ref\1502.Samolot.POTSAM.dll

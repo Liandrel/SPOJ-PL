@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\1596.Wiek segmentolka.WSEGA\bin\Debug\net6.0\1596.Wiek segmentolka.WSEGA.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\1596.Wiek segmentolka.WSEGA\bin\Debug\net6.0\1596.Wiek segmentolka.WSEGA.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1596.Wiek segmentolka.WSEGA\bin\Debug\net6.0\1596.Wiek segmentolka.WSEGA.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1596.Wiek segmentolka.WSEGA\bin\Debug\net6.0\1596.Wiek segmentolka.WSEGA.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1596.Wiek segmentolka.WSEGA\bin\Debug\net6.0\1596.Wiek segmentolka.WSEGA.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1596.Wiek segmentolka.WSEGA\obj\Debug\net6.0\1596.Wiek segmentolka.WSEGA.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1596.Wiek segmentolka.WSEGA\obj\Debug\net6.0\1596.Wiek segmentolka.WSEGA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\1596.Wiek segmentolka.WSEGA\obj\Debug\net6.0\1596.Wiek segmentolka.WSEGA.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1596.Wiek segmentolka.WSEGA\obj\Debug\net6.0\1596.Wiek segmentolka.WSEGA.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\1596.Wiek segmentolka.WSEGA\obj\Debug\net6.0\1596.Wiek segmentolka.WSEGA.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1596.Wiek segmentolka.WSEGA\obj\Debug\net6.0\1596.Wiek segmentolka.WSEGA.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1596.Wiek segmentolka.WSEGA\obj\Debug\net6.0\refint\1596.Wiek segmentolka.WSEGA.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1596.Wiek segmentolka.WSEGA\obj\Debug\net6.0\1596.Wiek segmentolka.WSEGA.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1596.Wiek segmentolka.WSEGA\obj\Debug\net6.0\1596.Wiek segmentolka.WSEGA.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1596.Wiek segmentolka.WSEGA\obj\Debug\net6.0\ref\1596.Wiek segmentolka.WSEGA.dll
