@@ -1,0 +1,15 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\1910.Odwracanie wyrazów.KC009\bin\Debug\net6.0\1910.Odwracanie wyrazów.KC009.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\1910.Odwracanie wyrazów.KC009\bin\Debug\net6.0\1910.Odwracanie wyrazów.KC009.deps.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1910.Odwracanie wyrazów.KC009\bin\Debug\net6.0\1910.Odwracanie wyrazów.KC009.runtimeconfig.json
+C:\Users\Eltanin\Desktop\VS\SPOJ\1910.Odwracanie wyrazów.KC009\bin\Debug\net6.0\1910.Odwracanie wyrazów.KC009.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1910.Odwracanie wyrazów.KC009\bin\Debug\net6.0\1910.Odwracanie wyrazów.KC009.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1910.Odwracanie wyrazów.KC009\obj\Debug\net6.0\1910.Odwracanie wyrazów.KC009.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1910.Odwracanie wyrazów.KC009\obj\Debug\net6.0\1910.Odwracanie wyrazów.KC009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltanin\Desktop\VS\SPOJ\1910.Odwracanie wyrazów.KC009\obj\Debug\net6.0\1910.Odwracanie wyrazów.KC009.AssemblyInfoInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1910.Odwracanie wyrazów.KC009\obj\Debug\net6.0\1910.Odwracanie wyrazów.KC009.AssemblyInfo.cs
+C:\Users\Eltanin\Desktop\VS\SPOJ\1910.Odwracanie wyrazów.KC009\obj\Debug\net6.0\1910.Odwracanie wyrazów.KC009.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1910.Odwracanie wyrazów.KC009\obj\Debug\net6.0\1910.Odwracanie wyrazów.KC009.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1910.Odwracanie wyrazów.KC009\obj\Debug\net6.0\refint\1910.Odwracanie wyrazów.KC009.dll
+C:\Users\Eltanin\Desktop\VS\SPOJ\1910.Odwracanie wyrazów.KC009\obj\Debug\net6.0\1910.Odwracanie wyrazów.KC009.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1910.Odwracanie wyrazów.KC009\obj\Debug\net6.0\1910.Odwracanie wyrazów.KC009.genruntimeconfig.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1910.Odwracanie wyrazów.KC009\obj\Debug\net6.0\ref\1910.Odwracanie wyrazów.KC009.dll
