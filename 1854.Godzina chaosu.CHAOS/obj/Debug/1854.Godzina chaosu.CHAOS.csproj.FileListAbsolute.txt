@@ -1,0 +1,8 @@
+C:\Users\Eltanin\Desktop\VS\SPOJ\1854.Godzina chaosu.CHAOS\bin\Debug\1854.Godzina chaosu.CHAOS.exe.config
+C:\Users\Eltanin\Desktop\VS\SPOJ\1854.Godzina chaosu.CHAOS\bin\Debug\1854.Godzina chaosu.CHAOS.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\1854.Godzina chaosu.CHAOS\bin\Debug\1854.Godzina chaosu.CHAOS.pdb
+C:\Users\Eltanin\Desktop\VS\SPOJ\1854.Godzina chaosu.CHAOS\obj\Debug\1854.Godzina chaosu.CHAOS.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1854.Godzina chaosu.CHAOS\obj\Debug\1854.Godzina chaosu.CHAOS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1854.Godzina chaosu.CHAOS\obj\Debug\1854.Godzina chaosu.CHAOS.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\SPOJ\1854.Godzina chaosu.CHAOS\obj\Debug\1854.Godzina chaosu.CHAOS.exe
+C:\Users\Eltanin\Desktop\VS\SPOJ\1854.Godzina chaosu.CHAOS\obj\Debug\1854.Godzina chaosu.CHAOS.pdb

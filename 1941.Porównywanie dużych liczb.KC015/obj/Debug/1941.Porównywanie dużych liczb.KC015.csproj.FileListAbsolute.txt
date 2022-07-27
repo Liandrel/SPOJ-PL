@@ -1,0 +1,8 @@
+C:\Users\Eltanin\Desktop\VS\Cwiczenia\1941.Porównywanie dużych liczb.KC015\bin\Debug\1941.Porównywanie dużych liczb.KC015.exe.config
+C:\Users\Eltanin\Desktop\VS\Cwiczenia\1941.Porównywanie dużych liczb.KC015\bin\Debug\1941.Porównywanie dużych liczb.KC015.exe
+C:\Users\Eltanin\Desktop\VS\Cwiczenia\1941.Porównywanie dużych liczb.KC015\bin\Debug\1941.Porównywanie dużych liczb.KC015.pdb
+C:\Users\Eltanin\Desktop\VS\Cwiczenia\1941.Porównywanie dużych liczb.KC015\obj\Debug\1941.Porównywanie dużych liczb.KC015.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\Cwiczenia\1941.Porównywanie dużych liczb.KC015\obj\Debug\1941.Porównywanie dużych liczb.KC015.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eltanin\Desktop\VS\Cwiczenia\1941.Porównywanie dużych liczb.KC015\obj\Debug\1941.Porównywanie dużych liczb.KC015.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\Cwiczenia\1941.Porównywanie dużych liczb.KC015\obj\Debug\1941.Porównywanie dużych liczb.KC015.exe
+C:\Users\Eltanin\Desktop\VS\Cwiczenia\1941.Porównywanie dużych liczb.KC015\obj\Debug\1941.Porównywanie dużych liczb.KC015.pdb
