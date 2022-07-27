@@ -1,0 +1,8 @@
+C:\Users\Eltanin\Desktop\VS\Cwiczenia\1909.Sumy wielokrotne.KC008\bin\Debug\1909.Sumy wielokrotne.KC008.exe.config
+C:\Users\Eltanin\Desktop\VS\Cwiczenia\1909.Sumy wielokrotne.KC008\bin\Debug\1909.Sumy wielokrotne.KC008.exe
+C:\Users\Eltanin\Desktop\VS\Cwiczenia\1909.Sumy wielokrotne.KC008\bin\Debug\1909.Sumy wielokrotne.KC008.pdb
+C:\Users\Eltanin\Desktop\VS\Cwiczenia\1909.Sumy wielokrotne.KC008\obj\Debug\1909.Sumy wielokrotne.KC008.csproj.AssemblyReference.cache
+C:\Users\Eltanin\Desktop\VS\Cwiczenia\1909.Sumy wielokrotne.KC008\obj\Debug\1909.Sumy wielokrotne.KC008.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eltanin\Desktop\VS\Cwiczenia\1909.Sumy wielokrotne.KC008\obj\Debug\1909.Sumy wielokrotne.KC008.csproj.CoreCompileInputs.cache
+C:\Users\Eltanin\Desktop\VS\Cwiczenia\1909.Sumy wielokrotne.KC008\obj\Debug\1909.Sumy wielokrotne.KC008.exe
+C:\Users\Eltanin\Desktop\VS\Cwiczenia\1909.Sumy wielokrotne.KC008\obj\Debug\1909.Sumy wielokrotne.KC008.pdb
